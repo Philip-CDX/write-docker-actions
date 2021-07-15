@@ -14,7 +14,3 @@ jobs:
           firstGreeting: "Learning Lab User"
       - name: "hello-action"
         uses: ./.github/actions/hello-world
-        with:
-          firstGreeting: "Learning Lab User"
-          secondGreeting: "Philip CDX"
-          thirdGreeting: "P2"
